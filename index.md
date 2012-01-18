@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Hello from Jekyll-Bootstrap
-header: This is Jekyll-Bootstrap
+title: Hello from cjdiorio
+header: cjdiorio
 ---
 
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllboostrap.com)
 
